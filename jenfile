@@ -6,7 +6,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Hello! Jenkins is working.'
-                echo 'My first successful build!'
+                echo 'My first successful build!!!'
             } 
         }
 
